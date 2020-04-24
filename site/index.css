@@ -1,0 +1,30 @@
+.row{
+	width: 100%;
+}
+#col-a{
+	background-color: lavender;
+}
+
+#col-b{
+	background-color: lavenderblush;
+}
+
+#col-c{
+	background-color: lavender;
+}
+
+h3{
+	color: red;
+}
+
+.container{
+	text-align: center;
+}
+
+h4{
+	text-align: center;
+}
+
+.navbar-nav{
+	text-align: center;
+}
